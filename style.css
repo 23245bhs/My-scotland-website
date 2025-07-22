@@ -18,3 +18,9 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
     width: 100%;
     font-size: 4rem;
 }
+
+.two-column{
+    display: grid;
+    grid-column: 1fr 1fr;
+    gap: 50px;
+}
